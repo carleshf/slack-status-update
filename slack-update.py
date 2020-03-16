@@ -18,7 +18,9 @@ if __name__ == "__main__":
         } 
     }
 
-    data = requests.post( url , headers = header, data = body )
+    print( body )
+
+    data = requests.post( url , headers = header, data = str( body ) )
 
     print( data.status_code )
     print( data.json() )
