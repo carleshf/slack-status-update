@@ -16,4 +16,4 @@ emoji = ":notes:"
 
 Where the content `text` will be your status and `emoji` the name of the _emoji_ to display.
 
-Finally the content of `xoxp_token` must be your _legacy token_, that you obtain it from your Slack account ([https://api.slack.com/custom-integrations/legacy-tokens]).
+Finally the content of `xoxp_token` must be your _legacy token_, that you obtain it from your Slack account (https://api.slack.com/custom-integrations/legacy-tokens).
